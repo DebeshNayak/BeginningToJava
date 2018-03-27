@@ -12,7 +12,7 @@ public class Student7 {
         name = n;
     }
 
-    // Student7(){}
+    Student7(){}
 
     void display(){
         System.out.println(id+" "+name);
