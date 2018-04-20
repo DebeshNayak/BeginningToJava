@@ -1,6 +1,6 @@
 package java_this;
 
-// this: to pass as argument in the constructor call
+// this: to pass a object as argument in the constructor call
 class B1{
     A4 obj;
     B1(A4 obj){

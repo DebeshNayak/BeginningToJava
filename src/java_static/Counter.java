@@ -1,7 +1,7 @@
 package java_static;
 
 public class Counter {
-    static int count = 0; // will get memory onlly once and retain its value
+    static int count = 0; // will get memory only once and retain its value
 
     Counter(){
         count++;

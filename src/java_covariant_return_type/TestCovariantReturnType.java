@@ -1,7 +1,7 @@
 package java_covariant_return_type;
 
 /**
- * covariant return type: override metthod by chaning the return tpe if subclass overrides
+ * covariant return type: override method by changing the return type if subclass overrides
  * any method whose return type is Non-Primitive but it changes its return type to subclass type
  */
 class A{
